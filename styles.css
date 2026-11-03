@@ -8,11 +8,16 @@ h1 {
   color:#FCFCFC;
 }
 p {
+  font-size: 140%;
+}
+p {
   color:#FCFCFC;
 }
 div {
   color:#FCFCFC;
 }
+
+
 /** CSS comments are written enclosed with these characters **/
 
 
