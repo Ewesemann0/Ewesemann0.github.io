@@ -1,6 +1,9 @@
 body {
   background-color:#7F58BF;
 }
+  title {
+    text-align: center;
+}
 h1 {
   color: blue;
 }
