@@ -6,13 +6,13 @@ font-family: "Century Gothic", AppleGothic, "CenturyGothic", sans-serif;
   line-height: 1.6;
 }
 h1 {
+   style=background-color: #d5f4e6;
     text-align: center;
     color: #00008B;
     border: 3px solid #FCFCFC;
     padding: 15px;
     margin: 20px;
     border-radius: 10px;
-  style=background-color: #d5f4e6;
 }
 h2 {
   text-align:center;
