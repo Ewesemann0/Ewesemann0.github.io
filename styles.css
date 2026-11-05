@@ -14,21 +14,15 @@ h1 {
 }
 h2 {
   text-align:center;
-}
-h2 {
-  color:#blue;
-}
-h2 {
+  color:##0000FF;
   font-size: 140%;
 }
 h3 {
-  color:#FCFCFC;
-}
-h3 {
+  color:#FF0000;
   font-size: 140%;
 }
 p {
-  color:#FCFCFC;
+  color:#32CD32;
 }
 h4 {
   color:#FCFCFC;
