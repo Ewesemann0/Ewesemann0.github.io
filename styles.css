@@ -5,12 +5,12 @@ body {
 font-family: verdana;
 }
 h1 {
+    font-family: verdana;
+    font-size: 10px
     text-align: center;
     color: #FCFCFC;
 }
 h1 {
-    font-family: verdana;
-    font-size: 20px
     border: 3px solid #FCFCFC;
     padding: 15px;
     margin: 20px;
