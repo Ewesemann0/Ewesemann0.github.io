@@ -8,6 +8,8 @@ font-family: "Century Gothic", AppleGothic, "CenturyGothic", sans-serif;
 h1 {
     text-align: center;
     color: #FCFCFC;
+}
+h1 {
     border: 3px solid #FCFCFC;
     padding: 15px;
     margin: 20px;
