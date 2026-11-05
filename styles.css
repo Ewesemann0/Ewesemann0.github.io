@@ -2,14 +2,14 @@ body {
   background-color:#222222;
 }
 body {
-font-family: Century Gothic;
+font-family: verdana;
 }
 h1 {
     text-align: center;
     color: #FCFCFC;
 }
 h1 {
-    font-family: Verdana;
+    font-family: verdana;
     font-size: 20px
     border: 3px solid #FCFCFC;
     padding: 15px;
@@ -22,7 +22,7 @@ h2 {
   font-size: 140%;
 }
 h3 {
-  font-family: Comic Sans;
+  font-family: comic sans;
   color: #FF0000;
   font-size: 140%;
 }
@@ -48,10 +48,6 @@ img {
 
 div {
   style=width: 300px; height: 200px;
-}
-
-.myclass {
-  background-color: #fff7e8;
 }
 
 a {
