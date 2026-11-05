@@ -5,9 +5,9 @@ body {
 font-family: verdana;
 }
 h1 {
+    text-align: center;
     font-family: verdana;
     font-size: 10px
-    text-align: center;
     color: #FCFCFC;
 }
 h1 {
