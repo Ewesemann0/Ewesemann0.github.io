@@ -5,10 +5,10 @@ body {
 font-family: verdana;
 }
 h1 {
+    color: #FCFCFC;
     text-align: center;
     font-family: verdana;
     font-size: 10px
-    color: #FCFCFC;
 }
 h1 {
     border: 3px solid #FCFCFC;
