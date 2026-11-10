@@ -114,16 +114,13 @@ h3 {
 }
 .spotify-link {
     display: inline-block;
-    background-color: #1DB954;
-    color: #17151D;
-    padding: 12px 25px;
+    background-color: #9B72CF;
+    color: white;
+    padding: 13px 25px;
     margin-top: 15px;
-    border-radius: 25px;
-    text-decoration: none;
+    border-radius: 6px;
     font-weight: 600;
-}
-.spotify-link:hover {
-    background-color: #C9F06B;
+    font-size: 13px;
 }
 
 .group-section {
@@ -141,7 +138,6 @@ h3 {
     padding: 13px 25px;
     margin-top: 15px;
     border-radius: 6px;
-    text-decoration: none;
     font-weight: 600;
     font-size: 13px;
 }
