@@ -122,6 +122,10 @@ h3 {
     font-weight: 600;
     font-size: 13px;
 }
+.spotify-link:hover {
+    background-color: #C9F06B;
+    color: #17151D;
+}
 
 .group-section {
     text-align: center;
