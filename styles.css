@@ -4,9 +4,6 @@ body {
     font-family: 'Poppins', sans-serif;
     color: #F5F0E8;
 }
-
-/* HEADER */
-
 header {
     text-align: center;
     padding: 45px 20px 30px;
@@ -29,9 +26,6 @@ h2 {
     font-size: 22px;
     margin-top: 0;
 }
-
-/* NAVIGATION LINKS */
-
 nav {
     margin-top: 40px;
 }
@@ -121,8 +115,19 @@ h3 {
     font-size: 13px;
     line-height: 1.7;
 }
-
-/* GROUP WEBSITE */
+.spotify-link {
+    display: inline-block;
+    background-color: #1DB954;
+    color: #17151D;
+    padding: 12px 25px;
+    margin-top: 15px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: 600;
+}
+.spotify-link:hover {
+    background-color: #C9F06B;
+}
 
 .group-section {
     text-align: center;
@@ -148,8 +153,6 @@ h3 {
     background-color: #C9F06B;
     color: #17151D;
 }
-
-/* FOOTER */
 
 footer {
     text-align: center;
